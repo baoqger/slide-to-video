@@ -3,13 +3,13 @@
 A tool that converts a slide deck into a video, complete with your voice narration. Support multiple languages.
 
 ## Installation
-Tested on Ubuntu 20.04.
+Tested on both `Ubuntu 20.04` and `Win11`.
 
 1. **Install `ffmpeg`**:
     ```bash
     sudo apt-get install ffmpeg
     ```
-2. **Install Python (>=3.9 and <=3.11) and `pip`** if you haven't already.
+2. **Install Python (>=3.10 and <3.13) and `pip`** if you haven't already.
 3. **Clone and Install this Tool**:
     ```bash
     git clone git@github.com:Changochen/slide-to-video.git
