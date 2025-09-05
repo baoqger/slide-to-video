@@ -9,6 +9,11 @@ Tested on both `Ubuntu 20.04` and `Win11`.
     ```bash
     sudo apt-get install ffmpeg
     ```
+    or on Windows
+    ```
+    choco install ffmpeg
+    ```
+
 2. **Install Python (>=3.10 and <3.13) and `pip`** if you haven't already.
 3. **Clone and Install this Tool**:
     ```bash
