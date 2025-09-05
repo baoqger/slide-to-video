@@ -3,3 +3,6 @@ NEWSLIDE
 
 NEWSLIDE
 我希望未来的世界是一个和平的世界。
+
+===
+#delay: 6

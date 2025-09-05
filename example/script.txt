@@ -1,9 +1,10 @@
 NEWSLIDE
-Hello everyone. Today I will talk about the first slide.
+Hello everyone.My name is Chris. Today I will talk about AI Agent.
+we will analyze how to develop a data analysis Agent based on Azure AI Foundry.
 
 NEWSLIDE
-This is the second slide. I will talk about the second slide.
-The second slide is very important.
+Before getting started with building an Agent.
+I think it's necessary to introduce some theory: how AI agents came about and what exactly they can do.
 
 ===
 #delay: 6
